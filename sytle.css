@@ -1,0 +1,106 @@
+.header{background-color:  #ffffff;
+height: 40px;
+margin-bottom: 20px;
+position: sticky;
+top:0px;
+right: 0px;
+left: 0px;
+bottom: none;
+}
+
+.title{ 
+    font-family: 'Bungee Spice', serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: larger;
+    border :none;
+    height: 40px;
+    background-color: white;
+ }
+
+.title a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+}
+
+.logo{
+    background-image: url('Sppu logo.png');
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+}
+
+
+.sub{font-size: larger;
+    font-family: "Passion One" , sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    
+    background-color:  #1ABC9C;
+    border-color: rgba(178, 178, 178, 0.658);
+    border-radius: 8px;
+    cursor: pointer;
+    font-size:large;
+    width: 150px;
+    height:200px;
+    list-style: none;
+    transition: 0.15s;
+} 
+
+
+.lastblock{
+background-color: bisque;
+display: flex;
+justify-content: space-between;
+margin-top: 20px;
+height: 200px;
+margin-left: 20px;
+margin-right: 20px;
+}
+
+.notes-button{
+background-color:  lightsalmon;
+width: 150px;
+height:200px;
+}
+
+.pyq-button{
+    background-color:  lightsalmon;
+ width: 150px;
+ height:200px;
+}
+
+.mcq-button{
+    background-color:  lightsalmon;
+ width: 150px;
+ height:200px;
+}
+
+.AV-button{
+    background-color:  lightsalmon;
+ width: 150px;
+ height:200px;
+}
+
+.RB-button{
+    background-color:  lightsalmon;
+ width: 150px;
+ height:200px;
+}
+
+.mcq-button{
+    background-color:  lightsalmon;
+ width: 150px;
+ height:200px;
+}
+.additional{
+ background-color:  lightsalmon;
+ width: 150px;
+ height:200px;
+}
+
+
+
