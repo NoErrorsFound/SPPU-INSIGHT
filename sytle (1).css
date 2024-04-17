@@ -1,0 +1,100 @@
+.header{background-color:  rgb(95, 20, 145);
+    height: 100px;
+    margin-bottom: 100px;
+    position: sticky;
+    top:0;
+    right: 0;
+    left: 0;
+    bottom: none;
+    }
+
+.title{ 
+    font-weight: 700;
+    font-style: normal;
+    font-size: 80px;
+    border :none;
+    background-color:   rgb(95, 20, 145);
+    margin-right: 50px; 
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+   
+ }
+
+.title a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    
+}
+
+.logo{
+    background-image: url(Sppu\ logo.png);
+    width: 90px;
+    height: 70px;
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 50px;
+}
+
+
+.sub{
+    font-size: larger;
+    font-family: "Passion One" , sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    border-color: rgba(178, 178, 178, 0.658);
+    border-radius: 8px;
+    cursor: pointer;
+    font-size:large;
+    width: 150px;
+    height:200px;
+    list-style: none;
+    transition: 0.15s;
+} 
+
+.notes-button{
+background-color:  none;
+width: 150px;
+height:200px;
+border-radius: 15px;
+}
+
+.pyq-button{
+    background-color:  none;
+ width: 150px;
+ height:200px;
+}
+
+.AV-button{
+    background-color: rgb(255, 206, 238) ;
+ width: 150px;
+ height: 200px;
+}
+
+.RB-button{
+    background-color: none;
+ width: 150px;
+ height:200px;
+}
+
+
+
+.unordered li a{
+    font-size: 30px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:500;
+    font-style: normal;
+    text-decoration: none;
+}
+
+   
+
+    
+
+
